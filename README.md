@@ -1,4 +1,6 @@
 # Bike-Share-Analysis
+In this project, I used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover the bike share usage patterns. I compared the system usage between three large cities: Chicago, New York City, and Washington, DC.
+
 Python is used to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 The Datasets
